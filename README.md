@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**lolatramontin/lolatramontin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=39A91E&center=true&vCenter=true&width=1000&lines=Hello!;Welcome+to+my+page!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 👋 Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Paola**, but most people call me **Lola**.
+
+I'm 22 years old and finishing my Bachelor's degree in **Information Systems**.
+
+I'm currently focusing on learning **Backend Development with Python** and continuously improving my programming skills by building projects and exploring new technologies.
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Backend Development with Python
+- 🔗 REST APIs
+- 🌿 Git & GitHub
+- 📚 Software Development Best Practices
