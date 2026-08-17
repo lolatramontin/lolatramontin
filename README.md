@@ -5,15 +5,20 @@
 
 I'm **Paola**, but most people call me **Lola**.
 
-I'm 22 years old and finishing my Bachelor's degree in **Information Systems**.
+I'm 22 years old and currently finishing my Bachelor's degree in **Information Systems**.
 
-I'm currently focusing on learning **Backend Development with Python** and continuously improving my programming skills by building projects and exploring new technologies.
+I'm focused on becoming a **Full Stack Developer**, currently building a strong foundation in **HTML, CSS, JavaScript, and Python**, with a particular interest in **Backend Development with Python**.
+
+I learn by building projects, practicing programming fundamentals, and exploring how different technologies work together to create complete applications.
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🐍 Backend Development with Python
-- 🔗 REST APIs
-- 🌿 Git & GitHub
-- 📚 Software Development Best Practices
+* 🐍 Python & Backend Development
+* 🌐 HTML, CSS & JavaScript
+* 🔗 REST APIs
+* 🗄️ Databases & SQL
+* 🌿 Git & GitHub
+* 🧩 Object-Oriented Programming
+* 📚 Software Development Best Practices
